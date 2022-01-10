@@ -1,0 +1,20 @@
+.botao {
+    background-color:#ff4700;
+    width: 90px;
+    height: 30px;
+    
+}
+.imagem {
+    height: 55px; 
+    float: right;
+    margin:-50px auto;
+    width:-80px;
+    padding: -20px
+}
+.grupo {
+  background:#white;
+}
+
+.titulo2 {
+	color:#ff4700;
+}
